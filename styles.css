@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 36px;
+
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.odd {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+.even {
+    background-color: lightgreen;
+    font-weight: bold;
+}
