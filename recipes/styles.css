@@ -1,0 +1,28 @@
+* {
+    font-family: "Times New Roman", sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    background-color: brown;
+}
+
+.title.main {
+    font-size: 48px;
+}
+
+.title.desc {
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 1000px;
+}
+
+.list {
+    text-align: center;
+    color: white;
+    background: black;
+}
