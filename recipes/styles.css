@@ -16,6 +16,8 @@
     font-size: 30px;
 }
 
+/*  Will likely need some inline CSS to get this to work for all images.
+    Otherwise this .css file creates a consistent theme among all recipe pages.*/
 img {
     height: auto;
     width: 1000px;

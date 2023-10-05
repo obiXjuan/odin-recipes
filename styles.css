@@ -2,29 +2,39 @@
     font-family: "Times New Roman", sans-serif;
 }
 
+div {
+    height: 1500px;
+    width: 600px;
+    margin: 0 auto;
+    padding: 8px;
+}
+
 h1 {
-    background-color: green;
-    color: white;
+    background-color: crimson;
+    color: black;
     font-weight: bolder;
     text-align: center;
     font-size: 36px;
-
+    margin-top: 0;
+    border: 2px black solid;
 }
 
 img {
     height: auto;
-    width: 500px;
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    border: 2px black solid;
 }
 
-.odd,
-.even {
+.recipe-list {
+    padding: 16px;
+    border: 2px black solid;
+    background-color: crimson;
+}
+.line-item {
     font-weight:  bold;
-}
+    font-size: 24px;
+    margin: 5px;
 
-.odd {
-    background-color: lightblue;
-}
-
-.even {
-    background-color: lightgreen;
 }
